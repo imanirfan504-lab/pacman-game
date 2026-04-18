@@ -1,7 +1,7 @@
 # Pacman Game
 
 **Course:** Object Oriented Programming (CMPE-221L)  
-**Assignment:** Complex Engineering Problem (Lab 1)  
+**Assignment:** Mids Project
 **Semester:** 2nd | **Session:** 2025  
 **Teacher:** Mr. Shahmeer  
 **University:** University of Engineering and Technology, Lahore — Computer Engineering Department
